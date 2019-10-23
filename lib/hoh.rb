@@ -31,7 +31,9 @@
  }
 
 def naming_system
-  kingdom = {}
+  kingdom = {
+    PORTION_1,
+  }
 
 end
 
